@@ -1,0 +1,119 @@
+{
+  "contractName": "ApprovedSpenderContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.11+commit.d7f03943\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/D/work/Sam/opensea_nft/contracts/test/ApprovedSpenderContract.sol\":\"ApprovedSpenderContract\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":20},\"remappings\":[]},\"sources\":{\"/D/work/Sam/opensea_nft/contracts/test/ApprovedSpenderContract.sol\":{\"keccak256\":\"0x5ee0c3a0e8edba107fdd9aea3e38318fad591cdea650fd08edfba73e5ad24741\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://565d3bf0c910f7d4648bc2805631bf8b41af3931f7b9f07c73a7b2b1bb8a07cd\",\"dweb:/ipfs/QmURWKMdYjqpMhnCiqhgLmETkkhKB4gv8bJTmEeEZsoWMC\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a776530f980c9165edd292c88f109b9a008f072706bdea9dcaf1fd3d15ac59f964736f6c634300080b0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a776530f980c9165edd292c88f109b9a008f072706bdea9dcaf1fd3d15ac59f964736f6c634300080b0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "58:41:16:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "58:41:16:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\n\npragma solidity ^0.8.0;\n\ncontract ApprovedSpenderContract {\n    \n}",
+  "sourcePath": "D:/work/Sam/opensea_nft/contracts/test/ApprovedSpenderContract.sol",
+  "ast": {
+    "absolutePath": "/D/work/Sam/opensea_nft/contracts/test/ApprovedSpenderContract.sol",
+    "exportedSymbols": {
+      "ApprovedSpenderContract": [
+        3293
+      ]
+    },
+    "id": 3294,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 3292,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:23:16"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "ApprovedSpenderContract",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 3293,
+        "linearizedBaseContracts": [
+          3293
+        ],
+        "name": "ApprovedSpenderContract",
+        "nameLocation": "67:23:16",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3294,
+        "src": "58:41:16",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:66:16"
+  },
+  "legacyAST": {
+    "absolutePath": "/D/work/Sam/opensea_nft/contracts/test/ApprovedSpenderContract.sol",
+    "exportedSymbols": {
+      "ApprovedSpenderContract": [
+        3293
+      ]
+    },
+    "id": 3294,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 3292,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:23:16"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "ApprovedSpenderContract",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 3293,
+        "linearizedBaseContracts": [
+          3293
+        ],
+        "name": "ApprovedSpenderContract",
+        "nameLocation": "67:23:16",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3294,
+        "src": "58:41:16",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:66:16"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.11+commit.d7f03943.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2022-02-07T03:32:28.468Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}

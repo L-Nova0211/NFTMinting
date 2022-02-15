@@ -152,7 +152,7 @@ export default function MainPage()
         >
           Mint your NFT on the Blockchain with 0.08 Ether
         </div>
-        <CustomizeButton caption="Mint" />
+        <CustomizeButton caption="Mint" onClick={mint} />
       </div>
       <div style={{width:'50%'}}>
         <div            
